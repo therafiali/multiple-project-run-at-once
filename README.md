@@ -1,6 +1,8 @@
 Save the above script as "run.bat" file
 Double-click the file, and it will open two separate terminals: one for backend, one for frontend.
 
+you can download file from this repo but update paths or commands also
+
 
 
 ```
