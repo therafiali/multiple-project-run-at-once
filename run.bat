@@ -1,0 +1,6 @@
+@echo off
+echo Starting Feedback Portal Backend...
+start cmd /k "cd /d C:\Users\abcd\rafi\feedback-portal\backend && npm run dev"
+
+echo Starting Feedback Portal Frontend...
+start cmd /k "cd /d C:\Users\abcd\rafi\feedback-portal\frontend && npm run dev"
